@@ -1,0 +1,19 @@
+body {
+    background-color: #f2f3f5; 
+}  
+
+.row {
+    background-color: #0b0b31;
+}
+
+.btn {
+    background-color: #0b0b31;
+}
+
+
+.circle {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: #808080;
+}
