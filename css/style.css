@@ -2,18 +2,83 @@ body {
     background-color: #f2f3f5; 
 }  
 
-.row {
+header .row {
+    background-color: #0b0b31;
+    margin: 0px;
+}
+
+.bigSize {
+    width: 300px;
+}
+
+.menuButton {
     background-color: #0b0b31;
 }
 
-.btn {
+.linkColor {
     background-color: #0b0b31;
+    border-radius: 6px;
 }
 
+.flexyFun {
+    justify-content: space-evenly;
+    align-items: center;
+   
+}
+
+.mainCircles {
+    display: flex;
+    justify-content: center;
+}
 
 .circle {
     width: 30px;
     height: 30px;
     border-radius: 50%;
     background-color: #808080;
+    margin-left: 3px;
 }
+
+
+
+.dateOne {
+    background-color: #be8542 ;
+    color: white;
+    width: 95px;
+    padding: 15px;
+    border-radius: 12px;
+    font-size: x-large;
+    font-weight:bolder;
+    text-align: center;
+}
+
+.dateTwo {
+    background-color: #be6043 ;
+    color: white;
+    width: 95px;
+    padding: 15px;
+    border-radius: 12px;
+    font-size: x-large;
+    font-weight:bolder;
+    text-align: center;
+}
+
+.dateThree {
+    background-color: #bd4260 ;
+    color: white;
+    width: 95px;
+    padding: 15px;
+    border-radius: 12px;
+    font-size: x-large;
+    font-weight:bolder;
+    text-align: center;
+}
+
+.sonSec {
+    background-color: #0b0b31;
+}
+
+.sonSec h2,h4 {
+    color: white;
+}
+
