@@ -26,6 +26,10 @@ header .row {
    
 }
 
+.ms-5 {
+    margin-left: 6rem !important;
+}
+
 .mainCircles {
     display: flex;
     justify-content: center;
